@@ -1,0 +1,1 @@
+<footer>KPP Madya Malang - &copy; <?php echo date('Y'); ?></footer>
